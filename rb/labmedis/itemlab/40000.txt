@@ -1,0 +1,11 @@
+Makro:Warna - kuning coklat - kuning coklat
+Makro:Konsistensi - lunak - lunak
+Makro:Lendir - negatif - negatif
+Makro:Darah - negatif - negatif
+Makro:Nanah - negatif - negatif
+Makro:Larva Cacing - negatif - negatif
+Mikro:Leukosit - /0-3 - /0-3
+Mikro:Eritrosit - /0-2 - /0-2
+Mikro:Telur Cacing - negatif - negatif
+Mikro:Amuba - negatif - negatif
+Mikro:Lain-lain Parasit - negatif - negatif

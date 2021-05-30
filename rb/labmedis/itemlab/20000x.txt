@@ -1,0 +1,28 @@
+BJ - 1000-1030 - 1000-1030
+Nitrit - negatif - negatif
+Darah/Benzidin - negatif - negatif
+pH - 4,8-7,4 - 4,8-7,4
+Protein/Albumin - negatif - negatif
+Glukosa/Reduksi - negatif - negatif
+Keton - negatif - negatif
+Urobilinogen - 0,2-1,0 - 0,2-1,0
+Bilirubin - negatif - negatif
+Warna - Kuning Pucat - Kuning Pucat
+Lekosit - negatif - negatif
+SEDIMEN URINE
+Sel Epitel:Squamous - 0-5 - 0-5
+Sel Epitel:Poligonal - 0-5 - 0-5
+Sel Epitel:Transisional - 0-5 - 0-5
+Sel Epitel:Lekosit - 0-5/LP - 0-5/LP
+Sel Epitel:Eritrosit - 0-5/LP - 0-5/LP
+Silinder:Hyalin - negatif - negatif
+Silinder:GranuLer - negatif - negatif
+Silinder:Eritrosit - negatif - negatif
+Silinder:Lekosit - negatif - negatif
+Kristal:Oksalat - negatif - negatif
+Kristal:Amorf Urat - negatif - negatif
+Kristal:TrlpleP hosphat - negatif - negatif
+Kristal:uric Acid - negatif - negatif
+Bakteri - negatif - negatif
+Jamur - negatif - negatif
+Ca Carbonat - negatif - negatif

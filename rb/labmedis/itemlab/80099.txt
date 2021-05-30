@@ -1,0 +1,28 @@
+Lama Berpantang -  -
+Pengeluaran Jam -  -
+Dengan Cara -  -
+Diterima Tanggal -  -
+Diterima Jam -  -
+
+Makroskopik:volume - 2,0-5,0 mL - 2,0-5,0 mL
+Makroskopik:pH - 7,5-9,0 - 7,5-9,0
+Makroskopik:Konsistensi -  -
+Makroskopik:Likwevasi - 0-60 menit - 0-60 menit
+Makroskopik:Viskositas - <=2 detik - <=2 detik
+Makroskopik:Aglutinasi - negatif - negatif
+Mikroskopik Langsung:Gerak aktif - >=25% - >=25%
+Mikroskopik Langsung:Gerak pasif - a+b>=50% - a+b>=50%
+Mikroskopik Langsung:Tidak bergerak - 0% - 0%
+Mikroskopik Setelah Satu Jam:Gerak aktif - >=30% - >=30%
+Mikroskopik Setelah Satu Jam:Gerak pasif - 0% - 0%
+Mikroskopik Setelah Satu Jam:Tidak bergerak - 0% - 0%
+Jumlah Sperma - >=40 juta/mL - >=40 juta/mL
+Morfologi:Normal - 100% - 100%
+Morfologi:Piri - 0% - 0%
+Morfologi:Makro - 0% - 0%
+Morfologi:Terato - <3% - <3%
+Morfologi:Mikro - 0% - 0%
+Morfologi:Imatur - 0% - 0%
+Morfologi:Dobel ekor - 0% - 0%
+Morfologi:Dobel kepala - 0% - 0%
+Morfologi:Kesan -  -

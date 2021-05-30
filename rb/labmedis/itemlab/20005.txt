@@ -1,0 +1,7 @@
+Epithel -  -  -  -
+Leukosit -  -  -  -
+Eritrosit -  -  -  -
+Silinder -  -  -  -
+Kristal -  -  -  -
+Bakteri -  -  -  -
+Candida -  -  -  -

@@ -1,0 +1,56 @@
+HITUNG JENIS
+Basofil - %
+Eusinofil - %
+Netrofil Batang - %
+Netrofil Segment - %
+Limfosit - %
+Monosit - %
+-
+FAECES LENGKAP
+Warna -
+Konsistensi -
+Lendir - negatif
+Leukosit - /0-3
+Eritrosit - /0-2
+Amilum - negatif
+Serat Otot - negatif
+Lemak - negatif
+Serat Tumbuhan - negatif
+Telur Cacing - negatif
+Amuba - negatif
+Jamur - negatif
+Benzidin Test - negatif
+-
+URINE LENGKAP
+Warna
+Kejernihan
+PH
+Berat Jenis
+Protein
+Glukosa
+Keton
+Darah
+Bilirubin
+Urobilinogen
+Nitrit
+Esterase Leukosit
+-
+SEDIMEN
+Epithel
+Leukosit
+Eritrosit
+Silinder
+Kristal
+Bakteri
+Candida
+-
+TEST WIDAL
+Salmonella Thypi O	
+Salmonella Parathypi AO
+Salmonella Parathypi BO
+Salmonella Parathypi CO
+Salmonella Thypi H
+Salmonella Parathypi AH
+Salmonella Parathypi BH
+Salmonella Parathypi CH
+-

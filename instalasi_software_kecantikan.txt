@@ -1,0 +1,30 @@
+CARA INSTALASI SOFTWARE :
+1. Klik file installer cantik2-v140331.exe yg ada di CD, dan ikuti petunjuk yg ada (bhs Indonesia)
+ 
+CARA MENJALANKAN SOFTWARE KLINIK KECANTIKAN TERPADU :
+
+1. Buka browser MOZILLA FIREFOX dan pada jendela isian ketik: 
+   http://127.0.0.1/cantik2 (untuk program apotek tanpa jaringan komputer)
+   http://192.168.0.3/cantik2 (untuk program apotek dengan jaringan komputer, contoh u/ IP server: 192.168.0.3)
+2. Anda diminta mengisikan Username dan Password, isikan,
+   login: admin & password: admin (semua memakai huruf kecil)
+   (ingat login dan password, huruf kecil dan besar dibedakan)
+3. Setelah itu Anda masuk langsung ke seluruh bagian operasional software, Isikan data di
+   bagian Administrasi Data dulu, karena semua transaksi mengambil data dari situ. 
+
+CATATAN :
+1. Karena program ini berbasis web, maka sebelum menggunakan program ini, anda harus menginstall terlebih dulu browser 
+MOZILLA FIREFOX  (untuk pemakaian program Klinik, Apotek, LabMedik, Rumah Bersalin atau Rumah Sakit).
+Sangat disarankan memakai Google Chrome atau Mozilla Firefox  karena masalah kompatibilitas program.
+2. Sama sekali TIDAK DIPERLUKAN akses internet untuk menjalankan program aplikasi kami.
+3. Penting untuk mematikan fitur "Remember History" yg ada di browser (Mozilla-Firefox), 
+caranya : klik menu browser "Tools -> Option", maka akan keluar tampilan "Option". klik tab "Privacy", lalu pilih "Never Remember History".
+Hal ini dilakukan agar setiap entry data, yg akan ditampilkan adalah data terbaru yg diambil dari database server.
+
+Informasi lanjut, hub : 
+SOFTWARE89 
+website : http://www.software89.com
+phone  :    021-2947-8270
+mobile :    021-9464-8989
+mobile :    0858-8526-8989
+message : 0813-8541-8989

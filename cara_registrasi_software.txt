@@ -1,0 +1,5 @@
+CARA MELAKUKAN REGISTRASI SOFTWARE :
+- Buka browser Mozilla-Firefox
+- ketikkan di isian alamat akses : http://localhost/[nama_program]/register.php
+- isikan No.Register yg Anda terima dari kami pada isian No.Register yg tersedia.
+- tekan ENTER, akan ditampilkan status keberhasilan pengisian No.Register tsb.
